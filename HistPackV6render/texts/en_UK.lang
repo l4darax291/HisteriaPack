@@ -1,0 +1,115 @@
+container.enderchest=§9§k.§f.§c.§r  §cHistChest §9§k.§f.§c.§r
+
+item.leather_helmet.name=Nocturite Helmet
+item.leather_chestplate.name=Nocturite Chestplate
+item.leather_leggings.name=Nocturite Leggings
+item.leather_boots.name=Nocturite Boots
+
+item.muttonCooked.name=Fighter Stick
+item.sugar.name=Speed Stick
+item.brick.name=Jump Stick
+
+item.rabbit_foot.name=Unclaim Finder
+item.feather.name=Drawer Upgrade
+entity.egg.name=Dynamite
+item.egg.name=Dynamite
+item.fishing_rod.name=Grapple
+item.blaze_rod.name=Obsidian Breaker
+item.slime_ball.name=Glider
+item.leather.name=Chest Explorer
+item.paper.name=Key vote
+item.skull.skeleton.name=Spike
+item.skull.zombie.name=Histerite Anvil
+
+tile.bone_block.name=Elevator
+tile.end_portal_frame.name=Reward Crate
+tile.hay_block.name=Drawer
+tile.sponge.dry.name=Lucky Block
+tile.redstone_lamp.name=Neon Block
+
+tile.soul_sand.name=Fertilized Dirt
+tile.emerald_ore.name=Histerite Ore
+tile.emerald_block.name=Histerite Ore
+tile.lapis_ore.name=Lucky Ore
+tile.noteblock.name=Cave Block
+tile.netherreactor.name=Poisoned Obsidian
+tile.glowingobsidian.name=Reinforced Obsidian
+
+item.bone.name=§bHisterite Sword
+item.nether_wart.name=Nocturite Seeds
+item.turtle_shell_piece.name=Histerite Stick
+item.ghast_tear.name=Histerite Core
+item.emerald.name=Histerite Ingot
+item.beetroot_seeds.name=Histerite Seeds
+item.magma_cream.name=Compressed Histerite
+item.chainmail_helmet.name=Histerite Helmet
+item.chainmail_chestplate.name=Histerite Chestplate
+item.chainmail_leggings.name=Histerite Leggings
+item.chainmail_boots.name=Histerite Boots
+item.cookie.name=Histerite Apple
+item.golden_axe.name=Histerite Axe
+item.golden_hoe.name=Histerite Hoe
+item.golden_pickaxe.name=Histerite Pickaxe
+item.golden_shovel.name=Histerite Shovel
+item.netherStar.name=Compressed Nocturite
+item.shulker_shell.name=Hammer
+item.minecart.name=Backpack
+item.dragon_breath.name=Seed Planter
+item.fireworksCharge.black=Powered Sponge
+item.fireworksCharge.blue=Powered Sponge
+item.fireworksCharge.brown=Powered Sponge
+item.fireworksCharge.customColor=Powered Sponge
+item.fireworksCharge.cyan=Powered Sponge
+item.fireworksCharge.fadeTo=Powered Sponge
+item.fireworksCharge.flicker=
+item.fireworksCharge.gray=Powered Sponge
+item.fireworksCharge.green=Powered Sponge
+item.fireworksCharge.lightBlue=Powered Sponge
+item.fireworksCharge.lime=Powered Sponge
+item.fireworksCharge.magenta=Powered Sponge
+item.fireworksCharge.name=Powered Sponge
+item.fireworksCharge.orange=Powered Sponge
+item.fireworksCharge.pink=Powered Sponge
+item.fireworksCharge.purple=Powered Sponge
+item.fireworksCharge.red=Powered Sponge
+item.fireworksCharge.silver=Powered Sponge
+item.fireworksCharge.trail=
+item.fireworksCharge.type=
+item.fireworksCharge.type.0=
+item.fireworksCharge.type.1=
+item.fireworksCharge.type.2=
+item.fireworksCharge.type.3=
+item.fireworksCharge.type.4=
+item.fireworksCharge.white=Powered Sponge
+item.fireworksCharge.yellow=Powered Sponge
+item.chorus_fruit_popped.name=Lottery Ticket
+
+entity.wither_skull.name=Hood
+item.skull.wither.name=Hood
+item.snowball.name=Shuriken
+entity.snowball.name=Shuriken
+
+item.pink_glazed_terracotta=Invisible
+item.netherbrick.name=Nocturite Ingot
+tile.nether_wart_block.name=Nocturite Block
+
+item.speckled_melon.name=Compressed Cobblestone
+
+item.cake.name= §9§k.§4.§r§k. §r§c dadodasyra's CAKEOooo §9§k.§4.§r§k.
+
+menu.returnToMenu=§cLeft :'(
+pauseScreen.quit=§cLeft :'(
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=§cLeft :'(
+deathScreen.message=§4You are dead!
+deathScreen.quit=§cRage quit
+deathScreen.quit.confirm=§cAre you sure of ragequiting?
+deathScreen.quit.confirmToMainMenuWarning=§cAre you sure of ragequiting?
+deathScreen.quit.confirmToMainMenuTitleWarning=§cAre you sure of ragequiting?
+
+dayOneExperience.tab.marketplace=shop.histeria.fr
+
+trial.tour.marketplace=shop.histeria.fr
+
+menu.serverStore=shop.histeria.fr
+
+disconnectionScreen.cantConnect=Unable to connect to Histeria. If you think the error is from Histeria, please join discord.gg/histeria.
