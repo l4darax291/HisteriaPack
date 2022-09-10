@@ -1,0 +1,103 @@
+item.jump_stick.name=Jump Stick
+item.teleportation_stick.name=Teleport Stick
+
+[Items]
+item.cake.name= §9§k.§4.§r§k. §r§c dadodasyra's CAKEOooo §9§k.§4.§r§k.
+item.compressed_cobblestone.name=Compressed Cobblestone
+item.histerite_apple.name=Histerite Apple
+item.nether_wart.name=Nocturite Seeds
+item.item_pack.name=BackPack
+item.thunder_bolt.name=ThunderBolt
+item.magic_lyre.name=Magic Lyre
+item.shuriken.name=Shuriken
+item.kill_tag.name=Killtag
+item.bank_note.name=BankNote
+item.chest_finder.name=Unclaim Finder
+item.drawer_upgrade.name=Drawer Upgrade
+item.snowball.name=Shuriken
+item.dynamite.name=Dynamite
+item.grapnel.name=Grapple
+item.obsidian_breaker.name=Obsidian Breaker
+item.hang_glider.name=Glider
+item.chest_explorer.name=Chest Explorer
+item.skull.skeleton.name=Spike
+item.skull.zombie.name=Histerite Anvil
+item.sponger.name=Powered Sponge
+item.lottery_ticket.name=Lottery Ticket
+item.forge_note.name=Forge Note
+item.punching_ball.name=Punching Ball
+
+[Keys]
+item.vote_key.name=Vote Key
+item.histerite_key.name=Histerite Key
+item.nocturite_key.name=Nocturite Key
+
+[Nocturite]
+item.nocturite_fruit.name=Nocturite Fruit
+item.nocturite_crystal.name=Nocturite Crystal
+item.nocturite_compress.name=Compressed Nocturite
+item.nocturite_core.name=Nocturite Core
+
+[Tools]
+item.spear.name=§bHisterite Spear
+item.xiphos.name=§bHisterite Xiphos
+item.harpè.name=§bHisterite Harpè
+item.lotus_staff.name=§bLotus Staff
+item.histerite_sword.name=§bHisterite Sword
+item.histerite_axe.name=Histerite Axe
+item.histerite_hoe.name=Histerite Hoe
+item.histerite_pickaxe.name=Histerite Pickaxe
+item.histerite_shovel.name=Histerite Shovel
+item.seed_planter.name=Seed Planter
+item.hammer.name=Hammer
+
+[Blocls]
+tile.bone_block.name=Elevator
+tile.end_portal_frame.name=Reward Crate
+tile.hay_block.name=Drawer
+tile.sponge.dry.name=Lucky Block
+tile.redstone_lamp.name=Neon Block
+tile.soul_sand.name=Fertilized Dirt
+tile.emerald_ore.name=Histerite Ore
+tile.emerald_block.name=Histerite Ore
+tile.lapis_ore.name=Lucky Ore
+tile.noteblock.name=Cave Block
+tile.netherreactor.name=Poisoned Obsidian
+tile.glowingobsidian.name=Reinforced Obsidian
+tile.nether_wart_block.name=Nocturite Block
+
+[Arrows]
+item.left_arrow.name=Left Arrow
+item.right_arrow.name=Right Arrow
+item.return_arrow.name=Return Arrow
+
+[Shop Categories]
+item.block_category.name=Block Category
+item.item_category.name=Item Category
+item.ore_category.name=Ore Category
+item.nature_category.name=Nature Category
+item.modded_item_category.name=Modded Items Category
+item.decoration_category.name=Decoration Category
+item.buy.name=Buy
+item.sell.name=Sell
+item.valid_mark.name=Validate
+
+[Throwables]
+entity.egg.name=Dynamite
+entity.snowball.name=Shuriken
+
+[Screens]
+menu.returnToMenu=§cLeft :'(
+pauseScreen.quit=§cLeft :'(
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=§cLeft :'(
+deathScreen.message=§4You are dead!
+deathScreen.quit=§cRage quit
+deathScreen.quit.confirm=§cAre you sure of ragequiting?
+deathScreen.quit.confirmToMainMenuWarning=§cAre you sure of ragequiting?
+deathScreen.quit.confirmToMainMenuTitleWarning=§cAre you sure of ragequiting?
+disconnectionScreen.cantConnect=Unable to connect to Histeria. If you think the error is from Histeria, please join discord.gg/histeria.
+
+[Misc]
+dayOneExperience.tab.marketplace=shop.histeria.fr
+trial.tour.marketplace=shop.histeria.fr
+menu.serverStore=shop.histeria.fr

@@ -184,6 +184,12 @@
     },
     "sell": {
       "textures":"textures/items/sell"
+    },
+    "thunderbolt": {
+      "textures":"textures/items/thunderbolt"
+    },
+    "magic_lyre": {
+      "textures":"textures/items/magic_lyre"
     }
   }
 }

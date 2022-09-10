@@ -1,0 +1,121 @@
+[Inventaires]
+container.enderchest=§9§k.§f.§c.§r  §cHistChest §9§k.§f.§c.§r
+
+[Armures]
+item.nocturite_helmet.name=Casque en Nocturite
+item.nocturite_chestplate.name=Plastron en Nocturite
+item.nocturite_leggings.name=Jambières en Nocturite
+item.nocturite_boots.name=Bottes en Nocturite
+item.histerite_helmet.name=Casque en Histerite
+item.histerite_chestplate.name=Plastron en Histerite
+item.histerite_leggings.name=Jambières en Histerite
+item.histerite_boots.name=Bottes en Histerite
+entity.wither_skull.name=Capuche
+item.hood_helmet.name=Capuche
+
+[Bâtons]
+item.heal_stick.name=Bâton de guerrier
+item.speed_stick.name=Bâton de rapidité
+item.jump_stick.name=Bâton de saut
+item.teleportation_stick.name=Bâton de téléportation
+
+[Objets]
+item.cake.name= §9§k.§4.§r§k. §r§cLe GATOOooo de dadodasyra §9§k.§4.§r§k.
+item.compressed_cobblestone.name=Pierre taillé compressée
+item.histerite_apple.name=Pomme en Histerite
+item.nether_wart.name=Graines de Nocturite
+item.item_pack.name=Sac à dos
+item.thunder_bolt.name=Éclair
+item.magic_lyre.name=Lyre magique
+item.shuriken.name=Shuriken
+item.kill_tag.name=Killtag
+item.bank_note.name=Chèque
+item.chest_finder.name=Unclaim Finder
+item.drawer_upgrade.name=Mise à niveau de boîte à rangement
+item.snowball.name=Shuriken
+item.dynamite.name=Dynamite
+item.grapnel.name=Grappin
+item.obsidian_breaker.name=Casseur à obsidienne
+item.hang_glider.name=Planeur
+item.chest_explorer.name=Exploreur de coffre
+item.skull.skeleton.name=Spike
+item.skull.zombie.name=Enclume en Histerite
+item.sponger.name=Eponge puissante
+item.lottery_ticket.name=Ticket de loterie
+item.forge_note.name=Parchemin d'enchantement
+item.punching_ball.name=Punching Ball
+
+[Clés]
+item.vote_key.name=Clé de Vote
+item.histerite_key.name=Clé en Histerite
+item.nocturite_key.name=Clé en Nocturite
+
+[Nocturite]
+item.nocturite_fruit.name=Fruit en Nocturite
+item.nocturite_crystal.name=Crystal de Nocturite
+item.nocturite_compress.name=Nocturite compréssée
+item.nocturite_core.name=Coeur en Nocturite
+
+[Outils]
+item.spear.name=§bLance en Histerite
+item.xiphos.name=§bXiphos en Histerite
+item.harpè.name=§bHarpè en Histerite
+item.lotus_staff.name=§bSceptre du Lotus
+item.histerite_sword.name=§bEpée en Histerite
+item.histerite_axe.name=Hache en Histerite
+item.histerite_hoe.name=Houe en Histerite
+item.histerite_pickaxe.name=Pioche en Histerite
+item.histerite_shovel.name=Pelle en Histerite
+item.seed_planter.name=Planteur à graine
+item.hammer.name=Marteau
+
+[Blocs]
+tile.bone_block.name=Ascenceur
+tile.end_portal_frame.name=Caisse à récompense
+tile.hay_block.name=Boîte à rangement
+tile.sponge.dry.name=Block à chance
+tile.soul_sand.name=Terre fertilisé
+tile.emerald_ore.name=Minerai d'Histerite
+tile.emerald_block.name=Bloc d'Histerite
+tile.lapis_ore.name=Minerai de chance
+tile.noteblock.name=Cave Block
+tile.netherreactor.name=Obsidienne empoisonnée
+tile.glowingobsidian.name=Obsidienne réenforcée
+tile.redstone_lamp.name=Bloc à Neon
+tile.nether_wart_block.name=Bloc de Nocturite
+
+[Flèches]
+item.left_arrow.name=Flèche Gauche
+item.right_arrow.name=Flèche Droite
+item.return_arrow.name=Flèche Retour
+
+[Catégories Boutique]
+item.block_category.name=Categorie Bloc 
+item.item_category.name=Categorie Item
+item.ore_category.name=Categorie Minerais
+item.nature_category.name=Categorie Nature
+item.modded_item_category.name=Categorie Item Moddés
+item.decoration_category.name=Categorie Décoration
+item.buy.name=Acheter
+item.sell.name=Vendre
+item.valid_mark.name=Valider
+
+[Item à lancer]
+entity.egg.name=Dynamite
+entity.snowball.name=Shuriken
+
+[Menus]
+menu.returnToMenu=§cQuitter :'(
+pauseScreen.quit=§cQuitter :'(
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=§cQuitter :'(
+deathScreen.message=§4Vous êtes mort !
+deathScreen.quit=§cRage quit
+deathScreen.quit.confirm=§cÊtes-vous sûr de ragequit?
+deathScreen.quit.confirmToMainMenuWarning=§cÊtes-vous sûr de ragequit?
+deathScreen.quit.confirmToMainMenuTitleWarning=§cÊtes-vous sûr de ragequit?
+disconnectionScreen.cantConnect=Impossible de se connecter à Histeria. Si vous pensez que l'erreur vient de Histeria, merci de rejoindre discord.gg/histeria.
+
+[Autre]
+dayOneExperience.tab.marketplace=shop.histeria.fr
+trial.tour.marketplace=shop.histeria.fr
+menu.serverStore=shop.histeria.fr
