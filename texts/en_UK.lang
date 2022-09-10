@@ -51,7 +51,7 @@ item.histerite_shovel.name=Histerite Shovel
 item.seed_planter.name=Seed Planter
 item.hammer.name=Hammer
 
-[Blocls]
+[Blocks]
 tile.bone_block.name=Elevator
 tile.end_portal_frame.name=Reward Crate
 tile.hay_block.name=Drawer
