@@ -104,6 +104,12 @@ item.valid_mark.name=Valider
 entity.egg.name=Dynamite
 entity.snowball.name=Shuriken
 
+[Grades]
+item.donator_icon.name=Donateur
+item.omega_icon.name=Omega
+item.inter_icon.name=Interplanétaire
+item.vip_icon.name=VIP
+
 [Menus]
 menu.returnToMenu=§cQuitter :'(
 pauseScreen.quit=§cQuitter :'(

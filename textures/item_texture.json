@@ -190,6 +190,18 @@
     },
     "magic_lyre": {
       "textures":"textures/items/magic_lyre"
+    },
+    "inter_icon": {
+      "textures":"textures/items/inter_icon"
+    },
+    "omega_icon": {
+      "textures":"textures/items/omega_icon"
+    },
+    "vip_icon": {
+      "textures":"textures/items/vip_icon"
+    },
+    "donator_icon": {
+      "textures":"textures/items/donator_icon"
     }
   }
 }
