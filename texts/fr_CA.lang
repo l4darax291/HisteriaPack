@@ -85,9 +85,9 @@ tile.redstone_lamp.name=Bloc à Neon
 tile.nether_wart_block.name=Bloc de Nocturite
 
 [Flèches]
-item.left_arrow.name=Flèche Gauche
-item.right_arrow.name=Flèche Droite
-item.return_arrow.name=Flèche Retour
+item.arrow_left.name=Flèche Gauche
+item.arrow_right.name=Flèche Droite
+item.arrow_return.name=Flèche Retour
 
 [Catégories Boutique]
 item.block_category.name=Categorie Bloc 

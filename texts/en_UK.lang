@@ -67,9 +67,9 @@ tile.glowingobsidian.name=Reinforced Obsidian
 tile.nether_wart_block.name=Nocturite Block
 
 [Arrows]
-item.left_arrow.name=Left Arrow
-item.right_arrow.name=Right Arrow
-item.return_arrow.name=Return Arrow
+item.arrow_left.name=Left Arrow
+item.arrow_right.name=Right Arrow
+item.arrow_return.name=Return Arrow
 
 [Shop Categories]
 item.block_category.name=Block Category
