@@ -9,7 +9,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/nocturite_2",
+        "default": "textures/models/armor/nocturite_1",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {

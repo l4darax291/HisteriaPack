@@ -9,7 +9,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/histerite_2",
+        "default": "textures/models/armor/histerite_1",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {
