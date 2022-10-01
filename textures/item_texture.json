@@ -203,8 +203,20 @@
     "donator_icon": {
       "textures":"textures/items/donator_icon"
     },
+    "histerite_stick": {
+      "textures":"textures/items/histerite_stick"
+    },
+    "histerite_compress": {
+      "textures":"textures/items/histerite_compress"
+    },
+    "histerite_core": {
+      "textures":"textures/items/histerite_core"
+    },
     "valid_mark": {
       "textures":"textures/items/valid_mark"
+    },
+    "nether_wart": {
+      "textures":"textures/items/nether_wart"
     }
   }
 }

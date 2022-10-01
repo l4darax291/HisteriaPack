@@ -1,42 +1,64 @@
+[Inventories]
+container.enderchest=§9§k.§f.§c.§r  §cHistChest §9§k.§f.§c.§r
+
+[Armors]
+item.nocturite_helmet.name=Nocturite Helmet
+item.nocturite_chestplate.name=Nocturite Chestplate
+item.nocturite_leggings.name=Nocturite Leggings
+item.nocturite_boots.name=Nocturite Boots
+item.histerite_helmet.name=Histerite Helmet
+item.histerite_chestplate.name=Histerite Chestplate
+item.histerite_leggings.name=Histerite Leggings
+item.histerite_boots.name=Histerite Boots
+entity.wither_skull.name=Hood Helmet
+item.hood_helmet.name=Hood Helmet
+
+[Sticks]
+item.heal_stick.name=Fighter Stick
+item.speed_stick.name=Speed Stick
 item.jump_stick.name=Jump Stick
 item.teleportation_stick.name=Teleport Stick
 
 [Items]
+item.histerite_stick.name=Histerite Stick
+item.histerite_compress.name=Compressed Histerite
+item.histerite_core.name=Histerite Core
+item.histerite.name=Histerite Ingot
 item.cake.name= §9§k.§4.§r§k. §r§c dadodasyra's CAKEOooo §9§k.§4.§r§k.
 item.compressed_cobblestone.name=Compressed Cobblestone
 item.histerite_apple.name=Histerite Apple
-item.nether_wart.name=Nocturite Seeds
 item.item_pack.name=BackPack
-item.thunder_bolt.name=ThunderBolt
-item.magic_lyre.name=Magic Lyre
+item.thunder_bolt.name=§bThunderBolt
+item.magic_lyre.name=§bMagic Lyre
 item.shuriken.name=Shuriken
-item.kill_tag.name=Killtag
+item.kill_tag.name=§bKilltag
 item.bank_note.name=BankNote
 item.chest_finder.name=Unclaim Finder
 item.drawer_upgrade.name=Drawer Upgrade
 item.snowball.name=Shuriken
 item.dynamite.name=Dynamite
-item.grapnel.name=Grapple
+item.grapnel.name=§bGrapple
 item.obsidian_breaker.name=Obsidian Breaker
 item.hang_glider.name=Glider
 item.chest_explorer.name=Chest Explorer
 item.skull.skeleton.name=Spike
 item.skull.zombie.name=Histerite Anvil
 item.sponger.name=Powered Sponge
-item.lottery_ticket.name=Lottery Ticket
+item.lottery_ticket.name=§eLottery Ticket
 item.forge_note.name=Forge Note
 item.punching_ball.name=Punching Ball
 
 [Keys]
 item.vote_key.name=Vote Key
-item.histerite_key.name=Histerite Key
-item.nocturite_key.name=Nocturite Key
+item.histerite_key.name=§bHisterite Key
+item.nocturite_key.name=§dNocturite Key
 
 [Nocturite]
+item.nocturite_seeds.name=Nocturite seeds
 item.nocturite_fruit.name=Nocturite Fruit
 item.nocturite_crystal.name=Nocturite Crystal
-item.nocturite_compress.name=Compressed Nocturite
-item.nocturite_core.name=Nocturite Core
+item.nocturite_compress.name=§bCompressed Nocturite
+item.nocturite_core.name=§dNocturite Core
 
 [Tools]
 item.spear.name=§bHisterite Spear
@@ -44,12 +66,12 @@ item.xiphos.name=§bHisterite Xiphos
 item.harpè.name=§bHisterite Harpè
 item.lotus_staff.name=§bLotus Staff
 item.histerite_sword.name=§bHisterite Sword
-item.histerite_axe.name=Histerite Axe
-item.histerite_hoe.name=Histerite Hoe
-item.histerite_pickaxe.name=Histerite Pickaxe
-item.histerite_shovel.name=Histerite Shovel
-item.seed_planter.name=Seed Planter
-item.hammer.name=Hammer
+item.histerite_axe.name=§bHisterite Axe
+item.histerite_hoe.name=§bHisterite Hoe
+item.histerite_pickaxe.name=§bHisterite Pickaxe
+item.histerite_shovel.name=§bHisterite Shovel
+item.seed_planter.name=§bSeed Planter
+item.hammer.name=§bHammer
 
 [Blocks]
 tile.bone_block.name=Elevator
