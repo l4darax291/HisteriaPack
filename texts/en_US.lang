@@ -20,6 +20,7 @@ item.jump_stick.name=Jump Stick
 item.teleportation_stick.name=Teleport Stick
 
 [Items]
+item.emerald.name=Histerite
 item.histerite_stick.name=Histerite Stick
 item.histerite_compress.name=Compressed Histerite
 item.histerite_core.name=Histerite Core

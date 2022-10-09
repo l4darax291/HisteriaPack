@@ -20,6 +20,7 @@ item.jump_stick.name=Bâton de saut
 item.teleportation_stick.name=§dBâton de téléportation
 
 [Objets]
+item.emerald.name=Histerite
 item.histerite_stick.name=Bâton en Histerite
 item.histerite_compress.name=Histerite compréssée
 item.histerite_core.name=Coeur d'Histerite
