@@ -88,6 +88,7 @@ tile.netherreactor.name=Obsidienne empoisonnée
 tile.glowingobsidian.name=Obsidienne réenforcée
 tile.redstone_lamp.name=Bloc à Neon
 tile.nether_wart_block.name=Bloc de Nocturite
+tile.nether_wart.name=Graines de Nocturite
 
 [Flèches]
 item.arrow_left.name=Flèche Gauche

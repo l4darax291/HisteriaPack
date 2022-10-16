@@ -55,7 +55,7 @@ item.histerite_key.name=§bHisterite Key
 item.nocturite_key.name=§dNocturite Key
 
 [Nocturite]
-item.nocturite_seeds.name=Nocturite seeds
+item.nocturite_seeds.name=Nocturite Seeds
 item.nocturite_fruit.name=Nocturite Fruit
 item.nocturite_crystal.name=Nocturite Crystal
 item.nocturite_compress.name=§bCompressed Nocturite
@@ -82,12 +82,13 @@ tile.sponge.dry.name=Lucky Block
 tile.redstone_lamp.name=Neon Block
 tile.soul_sand.name=Fertilized Dirt
 tile.emerald_ore.name=Histerite Ore
-tile.emerald_block.name=Histerite Ore
+tile.emerald_block.name=Histerite Block
 tile.lapis_ore.name=Lucky Ore
 tile.noteblock.name=Cave Block
 tile.netherreactor.name=Poisoned Obsidian
 tile.glowingobsidian.name=Reinforced Obsidian
 tile.nether_wart_block.name=Nocturite Block
+tile.nether_wart.name=Nocturite Seeds
 
 [Arrows]
 item.arrow_left.name=Left Arrow
