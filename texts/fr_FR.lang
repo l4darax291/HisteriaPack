@@ -32,7 +32,7 @@ item.item_pack.name=Sac à dos
 item.thunder_bolt.name=§bÉclair
 item.magic_lyre.name=§bLyre magique
 item.shuriken.name=Shuriken
-item.kill_tag.name=§bKilltag
+item.killtag.name=§bKilltag
 item.bank_note.name=Chèque
 item.chest_finder.name=Unclaim Finder
 item.drawer_upgrade.name=Mise à niveau de boîte à rangement
@@ -57,7 +57,7 @@ item.nocturite_key.name=§dClé en Nocturite
 [Nocturite]
 item.nocturite_seeds.name=Graines de Nocturite
 item.nocturite_fruit.name=Fruit en Nocturite
-item.nocturite_crystal.name=Crystal de Nocturite
+item.nocturite_crystal.name=Cristal de Nocturite
 item.nocturite_compress.name=§bNocturite compréssée
 item.nocturite_core.name=§dCoeur en Nocturite
 
@@ -78,7 +78,7 @@ item.hammer.name=§bMarteau
 tile.bone_block.name=Ascenceur
 tile.end_portal_frame.name=Caisse à récompense
 tile.hay_block.name=Boîte à rangement
-tile.sponge.dry.name=Block à chance
+tile.sponge.dry.name=Lucky Block
 tile.soul_sand.name=Terre fertilisé
 tile.emerald_ore.name=Minerai d'Histerite
 tile.emerald_block.name=Bloc d'Histerite
