@@ -10,7 +10,6 @@ item.histerite_helmet.name=Casque en Histerite
 item.histerite_chestplate.name=Plastron en Histerite
 item.histerite_leggings.name=Jambières en Histerite
 item.histerite_boots.name=Bottes en Histerite
-entity.wither_skull.name=Capuche
 item.hood_helmet.name=Capuche
 
 [Bâtons]
@@ -36,7 +35,6 @@ item.killtag.name=§bKilltag
 item.bank_note.name=Chèque
 item.chest_finder.name=Unclaim Finder
 item.drawer_upgrade.name=Mise à niveau de boîte à rangement
-item.snowball.name=Shuriken
 item.dynamite.name=Dynamite
 item.grapnel.name=§bGrappin
 item.obsidian_breaker.name=Casseur à obsidienne
@@ -96,7 +94,7 @@ item.arrow_right.name=Flèche Droite
 item.arrow_return.name=Flèche Retour
 
 [Catégories Boutique]
-item.block_category.name=Categorie Bloc 
+item.block_category.name=Categorie Bloc
 item.item_category.name=Categorie Item
 item.ore_category.name=Categorie Minerais
 item.nature_category.name=Categorie Nature
@@ -131,4 +129,3 @@ disconnectionScreen.cantConnect=Impossible de se connecter à Histeria. Si vous 
 dayOneExperience.tab.marketplace=shop.histeria.fr
 trial.tour.marketplace=shop.histeria.fr
 menu.serverStore=shop.histeria.fr
-

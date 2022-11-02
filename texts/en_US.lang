@@ -10,7 +10,6 @@ item.histerite_helmet.name=Histerite Helmet
 item.histerite_chestplate.name=Histerite Chestplate
 item.histerite_leggings.name=Histerite Leggings
 item.histerite_boots.name=Histerite Boots
-entity.wither_skull.name=Hood Helmet
 item.hood_helmet.name=Hood Helmet
 
 [Sticks]
@@ -36,7 +35,6 @@ item.kill_tag.name=§bKilltag
 item.bank_note.name=BankNote
 item.chest_finder.name=Unclaim Finder
 item.drawer_upgrade.name=Drawer Upgrade
-item.snowball.name=Shuriken
 item.dynamite.name=Dynamite
 item.grapnel.name=§bGrapple
 item.obsidian_breaker.name=Obsidian Breaker
@@ -131,4 +129,3 @@ disconnectionScreen.cantConnect=Unable to connect to Histeria. If you think the 
 dayOneExperience.tab.marketplace=shop.histeria.fr
 trial.tour.marketplace=shop.histeria.fr
 menu.serverStore=shop.histeria.fr
-
