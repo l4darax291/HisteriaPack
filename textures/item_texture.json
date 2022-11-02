@@ -134,7 +134,7 @@
     "punching_ball": {
       "textures":"textures/items/punching_ball"
     },
-     "bank_note": {
+    "bank_note": {
       "textures":"textures/items/banknote"
     },
     "trident": {
@@ -153,37 +153,37 @@
       "textures":"textures/items/spear"
     },
     "arrow_return": {
-      "textures":"textures/items/return_arrow"
+      "textures":"textures/items/decoration/return_arrow"
     },
     "arrow_left": {
-      "textures":"textures/items/left_arrow"
+      "textures":"textures/items/decoration/left_arrow"
     },
     "block_category": {
-      "textures":"textures/items/block_category"
+      "textures":"textures/items/decoration/block_category"
     },
     "item_category": {
-      "textures":"textures/items/item_category"
+      "textures":"textures/items/decoration/item_category"
     },
     "ore_category": {
-      "textures":"textures/items/ore_category"
+      "textures":"textures/items/decoration/ore_category"
     },
     "nature_category": {
-      "textures":"textures/items/nature_category"
+      "textures":"textures/items/decoration/nature_category"
     },
     "modded_item_category": {
-      "textures":"textures/items/modded_item_category"
+      "textures":"textures/items/decoration/modded_item_category"
     },
     "decoration_category": {
-      "textures":"textures/items/decoration_category"
+      "textures":"textures/items/decoration/decoration_category"
     },
     "arrow_right": {
-      "textures":"textures/items/right_arrow"
+      "textures":"textures/items/decoration/right_arrow"
     },
     "buy": {
-      "textures":"textures/items/buy"
+      "textures":"textures/items/decoration/buy"
     },
     "sell": {
-      "textures":"textures/items/sell"
+      "textures":"textures/items/decoration/sell"
     },
     "thunderbolt": {
       "textures":"textures/items/thunderbolt"
@@ -192,16 +192,16 @@
       "textures":"textures/items/magic_lyre"
     },
     "inter_icon": {
-      "textures":"textures/items/inter_icon"
+      "textures":"textures/items/decoration/inter_icon"
     },
     "omega_icon": {
-      "textures":"textures/items/omega_icon"
+      "textures":"textures/items/decoration/omega_icon"
     },
     "vip_icon": {
-      "textures":"textures/items/vip_icon"
+      "textures":"textures/items/decoration/vip_icon"
     },
     "donator_icon": {
-      "textures":"textures/items/donator_icon"
+      "textures":"textures/items/decoration/donator_icon"
     },
     "histerite_stick": {
       "textures":"textures/items/histerite_stick"
@@ -213,7 +213,7 @@
       "textures":"textures/items/histerite_core"
     },
     "valid_mark": {
-      "textures":"textures/items/valid_mark"
+      "textures":"textures/items/decoration/valid_mark"
     },
     "nether_wart": {
       "textures":"textures/items/nether_wart"
