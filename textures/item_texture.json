@@ -1,5 +1,5 @@
 {
-  "resource_pack_name" : "Histeria V6",
+  "resource_pack_name": "Histeria V6",
   "texture_name": "atlas.items",
   "texture_data": {
     "histerite_sword": {
@@ -18,205 +18,205 @@
       "textures": "textures/items/histerite_boots"
     },
     "nocturite_helmet": {
-      "textures":"textures/items/nocturite_helmet"
+      "textures": "textures/items/nocturite_helmet"
     },
     "nocturite_chestplate": {
-      "textures":"textures/items/nocturite_chestplate"
+      "textures": "textures/items/nocturite_chestplate"
     },
     "nocturite_leggings": {
-      "textures":"textures/items/nocturite_leggings"
+      "textures": "textures/items/nocturite_leggings"
     },
     "nocturite_boots": {
-      "textures":"textures/items/nocturite_boots"
+      "textures": "textures/items/nocturite_boots"
     },
     "hood_helmet": {
-      "textures":"textures/items/hood"
+      "textures": "textures/items/hood"
     },
     "grapnel": {
-      "textures":"textures/items/grapnel"
+      "textures": "textures/items/grapnel"
     },
     "hammer": {
-      "textures":"textures/items/hammer"
+      "textures": "textures/items/hammer"
     },
     "histerite_axe": {
-      "textures":"textures/items/histerite_axe"
+      "textures": "textures/items/histerite_axe"
     },
     "histerite_hoe": {
-      "textures":"textures/items/histerite_hoe"
+      "textures": "textures/items/histerite_hoe"
     },
     "histerite_shovel": {
-      "textures":"textures/items/histerite_shovel"
+      "textures": "textures/items/histerite_shovel"
     },
     "histerite_pickaxe": {
-      "textures":"textures/items/histerite_pickaxe"
+      "textures": "textures/items/histerite_pickaxe"
     },
     "seed_planter": {
-      "textures":"textures/items/seed_planter"
+      "textures": "textures/items/seed_planter"
     },
     "sponger": {
-      "textures":"textures/items/sponger"
+      "textures": "textures/items/sponger"
     },
     "item_pack": {
-      "textures":"textures/items/item_pack"
+      "textures": "textures/items/item_pack"
     },
     "tp_stick": {
-      "textures":"textures/items/tpstick"
+      "textures": "textures/items/tpstick"
     },
     "hang_glider": {
-      "textures":"textures/items/hang_glider"
+      "textures": "textures/items/hang_glider"
     },
     "chest_explorer": {
-      "textures":"textures/items/chest_explorer"
+      "textures": "textures/items/chest_explorer"
     },
     "chest_finder": {
-      "textures":"textures/items/chest_finder"
+      "textures": "textures/items/chest_finder"
     },
     "dynamite": {
-      "textures":"textures/items/dynamite"
+      "textures": "textures/items/dynamite"
     },
     "jump_stick": {
-      "textures":"textures/items/jump_stick"
+      "textures": "textures/items/jump_stick"
     },
     "heal_stick": {
-      "textures":"textures/items/heal_stick"
+      "textures": "textures/items/heal_stick"
     },
     "speed_stick": {
-      "textures":"textures/items/speed_stick"
+      "textures": "textures/items/speed_stick"
     },
     "drawer_upgrade": {
-      "textures":"textures/items/drawer_upgrade"
+      "textures": "textures/items/drawer_upgrade"
     },
     "compressed_cobblestone": {
-      "textures":"textures/items/compressed_cobblestone"
+      "textures": "textures/items/compressed_cobblestone"
     },
     "histerite_apple": {
-      "textures":"textures/items/histerite_apple"
+      "textures": "textures/items/histerite_apple"
     },
     "obsidian_breaker": {
-      "textures":"textures/items/obsidian_breaker"
+      "textures": "textures/items/obsidian_breaker"
     },
     "punching_ball_spawn": {
-      "textures":"textures/items/punching_ball_spawn"
+      "textures": "textures/items/punching_ball_spawn"
     },
     "lottery_ticket": {
-      "textures":"textures/items/lottery_ticket"
+      "textures": "textures/items/lottery_ticket"
     },
     "forge_note": {
-      "textures":"textures/items/forge_note"
+      "textures": "textures/items/forge_note"
     },
-     "nocturite_fruit": {
-      "textures":"textures/items/nocturite_fruit"
+    "nocturite_fruit": {
+      "textures": "textures/items/nocturite_fruit"
     },
-     "nocturite_crystal": {
-      "textures":"textures/items/nocturite_crystal"
+    "nocturite_crystal": {
+      "textures": "textures/items/nocturite_crystal"
     },
-     "nocturite_compress": {
-      "textures":"textures/items/nocturite_compress"
+    "nocturite_compress": {
+      "textures": "textures/items/nocturite_compress"
     },
-     "nocturite_core": {
-      "textures":"textures/items/nocturite_core"
+    "nocturite_core": {
+      "textures": "textures/items/nocturite_core"
     },
-     "kill_tag": {
-      "textures":"textures/items/killtag"
+    "kill_tag": {
+      "textures": "textures/items/killtag"
     },
-     "nocturite_key": {
-      "textures":"textures/items/nocturite_key"
+    "nocturite_key": {
+      "textures": "textures/items/nocturite_key"
     },
-     "histerite_key": {
-      "textures":"textures/items/histerite_key"
+    "histerite_key": {
+      "textures": "textures/items/histerite_key"
     },
-     "vote_key": {
-      "textures":"textures/items/vote_key"
+    "vote_key": {
+      "textures": "textures/items/vote_key"
     },
     "shuriken": {
-      "textures":"textures/items/shuriken"
+      "textures": "textures/items/shuriken"
     },
     "punching_ball": {
-      "textures":"textures/items/punching_ball"
+      "textures": "textures/items/punching_ball"
     },
     "bank_note": {
-      "textures":"textures/items/banknote"
+      "textures": "textures/items/banknote"
     },
     "trident": {
-      "textures":"textures/items/trident"
+      "textures": "textures/items/trident"
     },
     "harpe": {
-      "textures":"textures/items/harpe"
+      "textures": "textures/items/harpe"
     },
     "xiphos": {
-      "textures":"textures/items/xiphos"
+      "textures": "textures/items/xiphos"
     },
     "lotus_staff": {
-      "textures":"textures/items/lotus_staff"
+      "textures": "textures/items/lotus_staff"
     },
     "spear": {
-      "textures":"textures/items/spear"
+      "textures": "textures/items/spear"
     },
     "arrow_return": {
-      "textures":"textures/items/decoration/return_arrow"
+      "textures": "textures/items/decoration/return_arrow"
     },
     "arrow_left": {
-      "textures":"textures/items/decoration/left_arrow"
+      "textures": "textures/items/decoration/left_arrow"
     },
     "block_category": {
-      "textures":"textures/items/decoration/block_category"
+      "textures": "textures/items/decoration/block_category"
     },
     "item_category": {
-      "textures":"textures/items/decoration/item_category"
+      "textures": "textures/items/decoration/item_category"
     },
     "ore_category": {
-      "textures":"textures/items/decoration/ore_category"
+      "textures": "textures/items/decoration/ore_category"
     },
     "nature_category": {
-      "textures":"textures/items/decoration/nature_category"
+      "textures": "textures/items/decoration/nature_category"
     },
     "modded_item_category": {
-      "textures":"textures/items/decoration/modded_item_category"
+      "textures": "textures/items/decoration/modded_item_category"
     },
     "decoration_category": {
-      "textures":"textures/items/decoration/decoration_category"
+      "textures": "textures/items/decoration/decoration_category"
     },
     "arrow_right": {
-      "textures":"textures/items/decoration/right_arrow"
+      "textures": "textures/items/decoration/right_arrow"
     },
     "buy": {
-      "textures":"textures/items/decoration/buy"
+      "textures": "textures/items/decoration/buy"
     },
     "sell": {
-      "textures":"textures/items/decoration/sell"
+      "textures": "textures/items/decoration/sell"
     },
     "thunderbolt": {
-      "textures":"textures/items/thunderbolt"
+      "textures": "textures/items/thunderbolt"
     },
     "magic_lyre": {
-      "textures":"textures/items/magic_lyre"
+      "textures": "textures/items/magic_lyre"
     },
     "inter_icon": {
-      "textures":"textures/items/decoration/inter_icon"
+      "textures": "textures/items/decoration/inter_icon"
     },
     "omega_icon": {
-      "textures":"textures/items/decoration/omega_icon"
+      "textures": "textures/items/decoration/omega_icon"
     },
     "vip_icon": {
-      "textures":"textures/items/decoration/vip_icon"
+      "textures": "textures/items/decoration/vip_icon"
     },
     "donator_icon": {
-      "textures":"textures/items/decoration/donator_icon"
+      "textures": "textures/items/decoration/donator_icon"
     },
     "histerite_stick": {
-      "textures":"textures/items/histerite_stick"
+      "textures": "textures/items/histerite_stick"
     },
     "histerite_compress": {
-      "textures":"textures/items/histerite_compress"
+      "textures": "textures/items/histerite_compress"
     },
     "histerite_core": {
-      "textures":"textures/items/histerite_core"
+      "textures": "textures/items/histerite_core"
     },
     "valid_mark": {
-      "textures":"textures/items/decoration/valid_mark"
+      "textures": "textures/items/decoration/valid_mark"
     },
     "nether_wart": {
-      "textures":"textures/items/nether_wart"
+      "textures": "textures/items/nether_wart"
     }
   }
 }
