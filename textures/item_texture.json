@@ -217,6 +217,30 @@
     },
     "nether_wart": {
       "textures": "textures/items/nether_wart"
+    },
+    "faction1": {
+      "textures": "textures/items/decoration/faction1"
+    },
+    "faction2": {
+      "textures": "textures/items/decoration/faction2"
+    },
+    "faction3": {
+      "textures": "textures/items/decoration/faction3"
+    },
+    "minage1": {
+      "textures": "textures/items/decoration/minage1"
+    },
+    "minage2": {
+      "textures": "textures/items/decoration/minage2"
+    },
+    "minage3": {
+      "textures": "textures/items/decoration/minage3"
+    },
+    "minage4": {
+      "textures": "textures/items/decoration/minage4"
+    },
+    "minage5": {
+      "textures": "textures/items/decoration/minage5"
     }
   }
 }
