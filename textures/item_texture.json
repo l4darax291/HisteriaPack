@@ -218,29 +218,29 @@
     "nether_wart": {
       "textures": "textures/items/nether_wart"
     },
-    "faction1": {
-      "textures": "textures/items/decoration/faction1"
+    "faction1_icon": {
+      "textures": "textures/items/decoration/faction1_icon"
     },
-    "faction2": {
-      "textures": "textures/items/decoration/faction2"
+    "faction2_icon": {
+      "textures": "textures/items/decoration/faction2_icon"
     },
-    "faction3": {
-      "textures": "textures/items/decoration/faction3"
+    "faction3_icon": {
+      "textures": "textures/items/decoration/faction3_icon"
     },
-    "minage1": {
-      "textures": "textures/items/decoration/minage1"
+    "minage1_icon": {
+      "textures": "textures/items/decoration/minage1_icon"
     },
-    "minage2": {
-      "textures": "textures/items/decoration/minage2"
+    "minage2_icon": {
+      "textures": "textures/items/decoration/minage2_icon"
     },
-    "minage3": {
-      "textures": "textures/items/decoration/minage3"
+    "minage3_icon": {
+      "textures": "textures/items/decoration/minage3_icon"
     },
-    "minage4": {
-      "textures": "textures/items/decoration/minage4"
+    "minage4_icon": {
+      "textures": "textures/items/decoration/minage4_icon"
     },
-    "minage5": {
-      "textures": "textures/items/decoration/minage5"
+    "minage5_icon": {
+      "textures": "textures/items/decoration/minage5_icon"
     }
   }
 }
