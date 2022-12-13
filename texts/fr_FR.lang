@@ -46,6 +46,7 @@ item.sponger.name=Eponge puissante
 item.lottery_ticket.name=§eTicket de loterie
 item.forge_note.name=Parchemin d'enchantement
 item.punching_ball.name=Punching Ball
+item.nether_wart.name=Graines en Nocturite
 
 [Clés]
 item.vote_key.name=Clé de Vote
