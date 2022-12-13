@@ -46,6 +46,7 @@ item.sponger.name=Powered Sponge
 item.lottery_ticket.name=§eLottery Ticket
 item.forge_note.name=Forge Note
 item.punching_ball.name=Punching Ball
+item.nether_wart.name=Nocturite Seeds
 
 [Keys]
 item.vote_key.name=Vote Key
@@ -86,7 +87,6 @@ tile.noteblock.name=Cave Block
 tile.netherreactor.name=Poisoned Obsidian
 tile.glowingobsidian.name=Reinforced Obsidian
 tile.nether_wart_block.name=Nocturite Block
-tile.nether_wart.name=Nocturite Seeds
 
 [Arrows]
 item.arrow_left.name=Left Arrow
